@@ -30,6 +30,21 @@ public class Sample {
 
 	}
 
+	private void git7() {
+		// TODO Auto-generated method stub
+
+	}
+
+	private void git8() {
+		// TODO Auto-generated method stub
+
+	}
+
+	private void git9() {
+		// TODO Auto-generated method stub
+
+	}
+
 	private void git11() {
 		System.out.println("6");
 
