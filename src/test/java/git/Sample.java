@@ -29,4 +29,19 @@ public class Sample {
 		System.out.println("6");
 
 	}
+
+	private void git11() {
+		System.out.println("6");
+
+	}
+
+	private void git12() {
+		System.out.println("6");
+
+	}
+
+	private void git13() {
+		System.out.println("6");
+
+	}
 }
